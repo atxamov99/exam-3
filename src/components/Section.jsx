@@ -1,5 +1,5 @@
 import React from 'react'
-import Cyberpunk from '../assets/cyberpunk.png'
+import Cyberpunk from '../assets/Cyberpunk.png'
 import Starfield from '../assets/starfield.png'
 import TheElderScrolls  from '../assets/TheElderScrolls.png'
 import NewWorld from '../assets/NewWorld.png'
